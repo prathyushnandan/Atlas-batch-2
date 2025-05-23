@@ -3,7 +3,7 @@ public class Box {
     double w = -1;
     double h = -1;
 
- public static void main(string[] args) {
+ public static void main(String[] args) {
      Box b = new Box();
      System.out.println("length:"+b.l);
      System.out.println("width: "+b.w);
